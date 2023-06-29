@@ -171,12 +171,15 @@ function Myname (YourName,myparens,phone){
 
 }
 
-var newobj = new Myname("sabbir hossain" , "furoja khatun" , 01319458837);
-var newobj = new Myname("niloy hossain" , "furoja khatun" , 01767422899);
-var newobj = new Myname("mahedi hossain" , "furoja khatun" , 01314544855);
-var newobj = new Myname("munna hossain" , "furoja khatun" , 01313844056);
+var newobj1 = new Myname("sabbir hossain" , "furoja khatun" , 01319458837);
+var newobj2 = new Myname("niloy hossain" , "furoja khatun" , 01767422899);
+var newobj3 = new Myname("mahedi hossain" , "furoja khatun" , 01314544855);
+var newobj4 = new Myname("munna hossain" , "furoja khatun" , 01313844056);
 
-newobj.sum();
+newobj1.sum();
+newobj2.sum();
+newobj3.sum();
+newobj4.sum();
 
 
 
